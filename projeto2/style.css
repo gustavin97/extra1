@@ -1,0 +1,27 @@
+h1 span {
+color: rgb(235, 64, 207);
+    font-family: "Dosis", sans-serif;
+ 
+
+}
+
+h1 span {
+    font-weight: bold;
+}
+body{
+    font-family:"Open Sans", sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+
+
+p span { color:gray;}
+
+
+footer{
+    font-family:"Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+
